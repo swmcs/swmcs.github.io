@@ -28,14 +28,17 @@ If you or anyone you know is interested in supporting this idea, please email ei
 
 <h3>Mercedez Castro</h3>
 
-
+<p align="center">
 <a href="https://miraabela.github.io/">
 Mirabela Medallon
+  
 <img width="200" height="200" src="https://miraabela.github.io/images/b.jpg"/>
 </a>
 
 
 <a href="https://qauchida.github.io/">
 Quinne Uchida
+  
 <img  width="200" height="200" src="https://qauchida.github.io/images/quinne.jpg"/>
 </a>
+<p>
