@@ -1,5 +1,10 @@
 ## Supporting Women and Minorities in Computer Science 
 
+## What is this?
+
+## Why is this important?
+
+## How will this happen?
 
 ## Developers
 
@@ -7,12 +12,12 @@
 
 
 <a href="https://miraabela.github.io/">
-<h3>Mirabela Medallon</h3>
+Mirabela Medallon
 <img width="200" height="200" src="https://miraabela.github.io/images/b.jpg"/>
 </a>
 
 
 <a href="https://qauchida.github.io/">
-<h3>Quinne Uchida</h3>
-<img src="https://qauchida.github.io/images/quinne.jpg"/>
+Quinne Uchida
+<img  width="200" height="200" src="https://qauchida.github.io/images/quinne.jpg"/>
 </a>
