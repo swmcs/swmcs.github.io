@@ -27,7 +27,9 @@ If you or anyone you know is interested in supporting this idea, please email ei
 ## Developers
 
 <h3>Mercedez Castro</h3>
-
+<a href="https://mercedezcastro.github.io">
+<img width="200" height="200" src="https://raw.githubusercontent.com/mercedezcastro/mercedezcastro.github.io/master/IMG_7187.jpg" />
+<a/>
 <h3>Mirabela Medallon</h3>
 <a href="https://miraabela.github.io/">  
 <img width="200" height="200" src="https://miraabela.github.io/images/b.jpg"/>
