@@ -23,8 +23,8 @@ If you or anyone you know is interested in supporting this idea, please email ei
 
 
 ## Developers
-<div>
-            <h3>Mercedez Castro</h3>
+
+<h3>Mercedez Castro</h3>
                 <a href="https://mercedezcastro.github.io">
                     <img width="200" height="200" src="https://raw.githubusercontent.com/mercedezcastro/mercedezcastro.github.io/master/IMG_7187.jpg" />
                 <a/>
@@ -36,4 +36,3 @@ If you or anyone you know is interested in supporting this idea, please email ei
                 <a href="https://qauchida.github.io/">  
                     <img  width="200" height="200" src="https://qauchida.github.io/images/quinne.jpg"/>
                 </a>
-</div>
