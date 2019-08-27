@@ -23,7 +23,7 @@ If you or anyone you know is interested in supporting this idea, please email ei
 
 
 ## Developers
-<div centered>
+<div style="text-align:center">
   <div>
     <a href="https://mercedezcastro.github.io">
       <h3>Mercedez Castro</h3>
