@@ -1,5 +1,3 @@
-## Supporting Women in Information, Computing and Technology in Hawaii
-
 ## What is this?
 
 SWITCH will be a student led organization under ACM-W (the Association for Computing Machinery Women's Chapter), as well as a RIO (Registered Independent Organiztion) affiliated with the University of Hawaii at Manoa with the purpose of promoting racial and gender equality in the Information and Computer Science Department. 
@@ -25,7 +23,7 @@ If you or anyone you know is interested in supporting this idea, please email ei
 
 
 ## Developers
-
+<div centered>
 <h3>Mercedez Castro</h3>
 <a href="https://mercedezcastro.github.io">
 <img width="200" height="200" src="https://raw.githubusercontent.com/mercedezcastro/mercedezcastro.github.io/master/IMG_7187.jpg" />
@@ -39,4 +37,5 @@ If you or anyone you know is interested in supporting this idea, please email ei
 <a href="https://qauchida.github.io/">  
 <img  width="200" height="200" src="https://qauchida.github.io/images/quinne.jpg"/>
 </a>
+<div>
 
