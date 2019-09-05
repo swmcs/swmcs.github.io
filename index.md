@@ -1,36 +1,15 @@
-## What is this?
 
-SWITCH will be a student led organization under ACM-W (the Association for Computing Machinery Women's Chapter), as well as a RIO (Registered Independent Organiztion) affiliated with the University of Hawaii at Manoa with the purpose of promoting racial and gender equality in the Information and Computer Science Department. 
+SWITCH is a student led organization under ACM-W (the Association for Computing Machinery Women's Chapter), as well as a RIO (Registered Independent Organiztion) affiliated with the University of Hawaii at Manoa with the purpose of promoting racial and gender equality in the Information and Computer Science Department. 
 
-## Why is this important?
-In the Spring of 2019, the Title IX office at UH Manoa offered training to ICSpace in response to a Campus Climate survey.  It is notable that ICSpace is a study area designated for students, meaning that it is highly probable that student interactions in ICSpace are what prompted the survey response. For that reason, it is crucial that there be changes in the student atmosphere in the department and those changes have to come from the students themsevles. SWITCH will serve as a platform for students to get involved with preventing a hostile undergraduate environment in the ICS Department. 
+## Importance
+In the Spring of 2019, the Title IX office at UH Manoa offered training to ICSpace in response to a Campus Climate survey. It is notable that ICSpace is a study area designated for students, meaning that it is highly probable that student interactions in ICSpace are what prompted the survey response. For that reason, it is crucial that there be changes in the student atmosphere in the department and those changes have to come from the students themsevles. SWITCH will serve as a platform for a student community that supports members of all races and genders. 
 
-## How will this happen?
-
-To apply for membership, email qauchida@hawaii.edu
-
-We are working to become a Registered Independent Organization of UH Manoa.
-
-*Disclaimer this is the international Association of Computing Machinery and not the UH Manoa group
+## Where We Are Now
+SWITCH is in the process of becoming an official RIO regocnized by the University of Hawaii at Manoa for the Fall 2019 Semester. 
 
 ## SWITCH Plans For the Future
 After becoming a formally recognized RIO, we will be applying to be a recognized ACM-W chapter, and then we will be joining [Girls Who Code](https://girlswhocode.com/) and will also dedicate a subgroup for projects related with the female coding experience. We also plan to do educational outreach to public elementary, middle or high schools. In the future, we will arrange for professional talks from under represented programmers. 
 
-Our loftiest future goal is to create a feeder system from the community colleges within the UH system to UH Manoa through membership with SWITCH, where each community college could have their own campus specific SWITCH liason. Said liason could even start a campus specifc SWITCH subgroup if there were enough interested students, or SWITCH could merge with existing Computer Science groups on those campuses. 
+Our most ambitious goal is to create a feeder system from the community colleges within the UH system to UH Manoa through membership with SWITCH, where each community college could have their own campus specific SWITCH liason. Said liason could even start a campus specifc SWITCH subgroup if there were enough interested students, or SWITCH could merge with existing Computer Science groups on those campuses. 
 
-We believe that by creating a sense of community for marginalized individuals will help to prevent a hostile environment in the future. 
-
-## Developers
-
-<h3>Mercedez Castro</h3>
-                <a href="https://mercedezcastro.github.io">
-                    <img width="200" height="200" src="https://raw.githubusercontent.com/mercedezcastro/mercedezcastro.github.io/master/IMG_7187.jpg" />
-                <a/>
-            <h3>Mirabela Medallon</h3>
-              <a href="https://miraabela.github.io/">
-                      <img width="200" height="200" src="https://miraabela.github.io/images/b.jpg"/>
-                </a>
-          <h3>Quinne Uchida</h3>
-                <a href="https://qauchida.github.io/">  
-                    <img  width="200" height="200" src="https://qauchida.github.io/images/quinne.jpg"/>
-                </a>
+We believe that by creating a sense of community for marginalized individuals will help to prevent a hostile environment in the future, as well as promote retention among members of underrepresented groups. 
