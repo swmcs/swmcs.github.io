@@ -7,16 +7,14 @@ In the Spring of 2019, the Title IX office at UH Manoa offered training to ICSpa
 
 ## How will this happen?
 
-To apply for membership, [fill out this google form.] (https://docs.google.com/forms/d/e/1FAIpQLSf6kbNMC1xUwpUOEmmOXLEkX_4U3KCcpRSjkLsZqJ4Igng1UQ/viewform?usp=sf_link)
+To apply for membership, email qauchida@hawaii.edu
 
 We are working to become a Registered Independent Organization of UH Manoa.
-
-In order to become a group under ACM-W, we need 10 ACM student members and 3 professional members. In order to become a student member of ACM*, [one must register with ACM here](https://services.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOPform_type=Student), and pay a registration fee of $19. Then contact either Quinne Uchida at qauchida@hawaii.edu or Mirabela Medallon at mirabella@hawaii.edu. 
 
 *Disclaimer this is the international Association of Computing Machinery and not the UH Manoa group
 
 ## SWITCH Plans For the Future
-After becoming an official ACM-W organization and a RIO, we will be joining [Girls Who Code](https://girlswhocode.com/) and will also dedicate a subgroup for projects related with the female coding experience. We also plan to do educational outreach to public elementary, middle or high schools. In the future, we will arrange for professional talks from under represented programmers. 
+After becoming a formally recognized RIO, we will be applying to be a recognized ACM-W chapter, and then we will be joining [Girls Who Code](https://girlswhocode.com/) and will also dedicate a subgroup for projects related with the female coding experience. We also plan to do educational outreach to public elementary, middle or high schools. In the future, we will arrange for professional talks from under represented programmers. 
 
 Our loftiest future goal is to create a feeder system from the community colleges within the UH system to UH Manoa through membership with SWITCH, where each community college could have their own campus specific SWITCH liason. Said liason could even start a campus specifc SWITCH subgroup if there were enough interested students, or SWITCH could merge with existing Computer Science groups on those campuses. 
 
