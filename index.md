@@ -14,5 +14,4 @@ Our most ambitious goal is to create a feeder system from the community colleges
 
 We believe that by creating a sense of community for marginalized individuals will help to prevent a hostile environment in the future, as well as promote retention among members of underrepresented groups. 
 
-## SWITCH-UHM organizational structure
 <iframe src="https://onodo.org/visualizations/88769/embed/" width="100%" height="450px" scrolling="no" marginheight="0" frameborder="0" allowfullscreen></iframe>
