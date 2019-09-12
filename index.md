@@ -13,3 +13,6 @@ After becoming a formally recognized RIO, we will be applying to be a recognized
 Our most ambitious goal is to create a feeder system from the community colleges within the UH system to UH Manoa through membership with SWITCH, where each community college could have their own campus specific SWITCH liason. Said liason could even start a campus specifc SWITCH subgroup if there were enough interested students, or SWITCH could merge with existing Computer Science groups on those campuses. 
 
 We believe that by creating a sense of community for marginalized individuals will help to prevent a hostile environment in the future, as well as promote retention among members of underrepresented groups. 
+
+## SWITCH-UHM organizational structure
+<iframe src="https://onodo.org/visualizations/88769/embed/" width="100%" height="450px" scrolling="no" marginheight="0" frameborder="0" allowfullscreen></iframe>
