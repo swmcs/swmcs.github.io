@@ -14,3 +14,5 @@ We plan to do educational outreach to public elementary, middle or high schools.
 Our most ambitious goal is to create a feeder system from the community colleges within the UH system to UH Manoa through membership with SWITCH, where each community college could have their own campus specific SWITCH liason. Said liason could even start a campus specifc SWITCH subgroup if there were enough interested students, or SWITCH could merge with existing Computer Science groups on those campuses. 
 
 We believe that by creating a sense of community for marginalized individuals will help to prevent a hostile environment in the future, as well as promote retention among members of underrepresented groups. 
+
+<embeded src="Flyer(1).pdf" width="500" height="600"/>
