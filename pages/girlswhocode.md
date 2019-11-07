@@ -4,6 +4,8 @@ title: "Girls Who Code"
 teaser: "An international non-profit organization working to
 close the gender gap in technology"
 permalink: "/resources/girlswhocode/"
+header:
+    background-color: "#ffffff"
 ---
 
 <h3><a href="/assets/docs/gwc-flyer.pdf">View the Flyer Here!</a></h3>

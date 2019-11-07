@@ -3,6 +3,8 @@ layout: page
 title: "Join SWITCH"
 meta_title: "Join Our Club!"
 permalink: "/join/"
+header:
+    background-color: "#ffffff"
 ---
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6kbNMC1xUwpUOEmmOXLEkX_4U3KCcpRSjkLsZqJ4Igng1UQ/viewform" class="success button">Membership Application</a>
