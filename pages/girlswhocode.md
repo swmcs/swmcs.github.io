@@ -6,13 +6,7 @@ close the gender gap in technology"
 permalink: "/resources/girlswhocode/"
 ---
 
-### Flyer
-<object data="https://switch-uhm.github.io//assets/docs/gwc-flyer.pdf" type="application/pdf" width="100%" height="400px">
-    <embed src="https://switch-uhm.github.io/assets/docs/gwc-flyer.pdf">
-        <p><a href="/assets/docs/gwc-flyer.pdf">Download PDF</a></p>
-    </embed>
-</object>
-
+<a href="/assets/docs/gwc-flyer.pdf"><h3>View the Flyer Here!</h3></a>
 
 
 ### About College Loops
