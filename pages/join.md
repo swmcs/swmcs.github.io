@@ -10,4 +10,4 @@ permalink: "/join/"
 
 <h3>Joining Girls Who Code: College Loops</h3>
 
-Please visit the College Loops page under the Resources Tab to learn more about what it is! After you are done, please go to <a href="https://hq.girlswhocode.com/gwc/join-loop">Girls Who Code HQ</a> and enter <strong>CL20223</strong> as the College Loop Code. 
+Please visit the <strong>Girls Who Code</strong> page under the <strong>Resources</strong> Tab to learn more about what it is! After you are done, please go to <a href="https://hq.girlswhocode.com/gwc/join-loop">Girls Who Code HQ</a> and enter <strong>CL20223</strong> as the College Loop Code. 
