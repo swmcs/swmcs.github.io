@@ -10,12 +10,14 @@
   url: "/resources/"
   side: left
   dropdown:
-  - title: "Professional Development"
-    url: "/resources/professional/"
-  - title: "Personal Development"
-    url: "/resources/personal/"
   - title: "Speaker Series Archive"
     url: "/resources/speakers/"
+  - title: "Professional Development"
+    url: "/resources/professional/"
+  - title: "Technical Development"
+    url: "/resources/technical/"
+  - title: "Personal Development"
+    url: "/resources/personal/"
 
 - title: "Events"
   url: "/events/"
