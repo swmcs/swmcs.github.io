@@ -36,7 +36,7 @@ callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Join Us! <3
   style: success
-permalink: /index.html
+permalink: /join.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation

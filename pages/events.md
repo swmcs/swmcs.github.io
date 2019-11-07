@@ -5,4 +5,4 @@ subheadline: "View our upcoming events on the Discord Channel!"
 permalink: "/events/"
 ---
 
-<iframe src="https://titanembeds.com/embed/613860046492925992" height="600" width="800" frameborder="0"></iframe>
+<iframe src="https://titanembeds.com/embed/613860046492925992?defaultchannel=636741947767390228" height="600" width="800" frameborder="0"></iframe>
