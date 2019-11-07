@@ -12,6 +12,8 @@
   dropdown:
   - title: "Speaker Series Archive"
     url: "/resources/speakers/"
+  - title: "Girls Who Code"
+    url: "/resources/personal/"
   - title: "Professional Development"
     url: "/resources/professional/"
   - title: "Technical Development"
