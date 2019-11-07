@@ -6,7 +6,7 @@ close the gender gap in technology"
 permalink: "/resources/girlswhocode/"
 ---
 
-<a href="/assets/docs/gwc-flyer.pdf"><h3>View the Flyer Here!</h3></a>
+<h3><a href="/assets/docs/gwc-flyer.pdf">View the Flyer Here!</a></h3>
 
 
 ### About College Loops
@@ -37,7 +37,7 @@ What makes Girls Who Code special is that we're not just here to teach you how t
 
 ### What's Next
 
-Now that you've learned about College Loops, you can <a href="/join/">Join Here</a> and keep an eye out for the next event annoucement!
+Now that you've learned about College Loops, you can <a href="/join/">Join Here</a> and keep an eye out for the next event annoucement! (You must be a female-identifying or non-binary student to join GWC College Loops).
 
 
 
