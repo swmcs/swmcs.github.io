@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Girls Who Code"
-subheadline: "An international non-profit organization working to
+teaser: "An international non-profit organization working to
 close the gender gap in technology"
 permalink: "/resources/girlswhocode/"
 ---
