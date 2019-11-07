@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://switch-uhm.github.io/join/
   text: Join Us! <3
   style: success
 permalink: /index.html
