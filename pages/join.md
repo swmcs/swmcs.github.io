@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Join"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
+meta_title: "Join Our Club!"
+permalink: "/join/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+callforaction:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSf6kbNMC1xUwpUOEmmOXLEkX_4U3KCcpRSjkLsZqJ4Igng1UQ/viewform
+  text: Membership Application
+  style: success
 
- [1]: http://www.wufoo.com/
+<iframe src="https://discordapp.com/widget?id=613860046492925992&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
