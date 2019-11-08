@@ -40,7 +40,7 @@ What makes Girls Who Code special is that we're not just here to teach you how t
 
 ### What's Next
 
-Now that you've learned about College Loops, you can <a href="/join/">Join Here</a> and keep an eye out for the next event annoucement! (You must be a female-identifying or non-binary student to join GWC College Loops).
+Now that you've learned about College Loops, you can <a href="/pages/join/">Join Here</a> and keep an eye out for the next event annoucement! (You must be a female-identifying or non-binary student to join GWC College Loops).
 
 
 
