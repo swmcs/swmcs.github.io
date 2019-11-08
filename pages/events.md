@@ -4,6 +4,7 @@ title: "Events"
 subheadline: "View our upcoming events on the Discord Channel!"
 permalink: "/events/"
 header:
+	image: logo.png
     background-color: "#ffffff"
 ---
 

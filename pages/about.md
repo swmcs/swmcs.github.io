@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "The Club"
 permalink: "/about/"
 header:
     image: about-hero.png
