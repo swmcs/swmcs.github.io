@@ -3,7 +3,7 @@ layout: page
 title: "Professional Resources"
 subheadline: ""
 teaser: ""
-permalink: "/resources/professional/"
+permalink: "/pages/professional/"
 header:
 	image: logo.png
     background-color: "#ffffff"

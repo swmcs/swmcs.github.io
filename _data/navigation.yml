@@ -7,22 +7,22 @@
   side: left
 
 - title: "Resources"
-  url: "/resources/"
+  url: "/pages/resources/"
   side: left
   dropdown:
   - title: "Girls Who Code"
-    url: "/resources/girlswhocode/"
+    url: "/pages/girlswhocode/"
   - title: "Speaker Series Archive"
-    url: "/resources/speakers/"
+    url: "/pages/speakers/"
   - title: "Professional Development"
-    url: "/resources/professional/"
+    url: "/pages/professional/"
   - title: "Technical Development"
-    url: "/resources/technical/"
+    url: "/pages/technical/"
   - title: "Personal Development"
-    url: "/resources/personal/"
+    url: "/pages/personal/"
 
 - title: "Events"
-  url: "/events/"
+  url: "/pages/events/"
   side: left
 
 # - title: Blog
@@ -37,5 +37,5 @@
   side: right
 
 - title: "Join Us"
-  url: "/join/"
+  url: "/pages/join/"
   side: right

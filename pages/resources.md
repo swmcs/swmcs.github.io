@@ -3,7 +3,7 @@ layout: page
 title: "Member Resources"
 subheadline: ""
 teaser: ""
-permalink: "/resources/"
+permalink: "/pages/resources/"
 header:
 	image: logo.png
     background-color: "#ffffff"

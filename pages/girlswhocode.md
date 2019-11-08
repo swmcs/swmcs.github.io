@@ -3,7 +3,7 @@ layout: page
 title: "Girls Who Code"
 teaser: "An international non-profit organization working to
 close the gender gap in technology"
-permalink: "/resources/girlswhocode/"
+permalink: "/pages/girlswhocode/"
 header:
 	image: logo.png
     background-color: "#ffffff"

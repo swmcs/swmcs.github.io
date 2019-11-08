@@ -2,7 +2,7 @@
 layout: page
 title: "Events"
 subheadline: "View our upcoming events on the Discord Channel!"
-permalink: "/events/"
+permalink: "/pages/events/"
 header:
 	image: logo.png
     background-color: "#ffffff"

@@ -3,7 +3,7 @@ layout: page
 title: "Personal Resources"
 subheadline: ""
 teaser: ""
-permalink: "/resources/personal/"
+permalink: "/pages/personal/"
 header:
 	image: logo.png
     background-color: "#ffffff"
