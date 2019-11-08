@@ -3,7 +3,7 @@ layout: page
 title: "SWITCH-UHM"
 permalink: /
 header:
-    image: index-hero.png
+    image: "index-hero.png"
     background-color: "#ffffff"
 ---
 

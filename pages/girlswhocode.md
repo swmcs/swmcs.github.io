@@ -5,7 +5,7 @@ teaser: "An international non-profit organization working to
 close the gender gap in technology"
 permalink: "/pages/girlswhocode/"
 header:
-	image: logo.png
+	image: "logo.png"
     background-color: "#ffffff"
 ---
 

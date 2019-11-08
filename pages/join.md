@@ -4,7 +4,7 @@ title: "Join SWITCH"
 meta_title: "Join Our Club!"
 permalink: "/pages/join/"
 header:
-	image: logo.png
+	image: "logo.png"
     background-color: "#ffffff"
 ---
 

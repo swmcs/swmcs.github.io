@@ -5,6 +5,6 @@ subheadline: ""
 teaser: ""
 permalink: "/pages/personal/"
 header:
-	image: logo.png
+	image: "logo.png"
     background-color: "#ffffff"
 ---

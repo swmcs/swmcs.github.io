@@ -4,7 +4,7 @@ title: "Events"
 subheadline: "View our upcoming events on the Discord Channel!"
 permalink: "/pages/events/"
 header:
-	image: logo.png
+	image: "logo.png"
     background-color: "#ffffff"
 ---
 
