@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "SWITCH-UHM"
+permalink: /
 header:
-		image: index-hero.png
-		background-color: "#ffffff"
-homepage: true
-permalink: /index.html
+    image: index-hero.png
+    background-color: "#ffffff"
 ---
 
 
