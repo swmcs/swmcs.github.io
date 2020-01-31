@@ -8,8 +8,13 @@ header:
     background-color: "#ffffff"
 ---
 
+## Join us & stay in the loop!
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6kbNMC1xUwpUOEmmOXLEkX_4U3KCcpRSjkLsZqJ4Igng1UQ/viewform" class="success button">Membership Application</a>
-<a href="https://discordapp.com/invite/kzJWvxZ" class="primary button">Join Our Discord for Updates!</a>
+<a href="https://discordapp.com/invite/kzJWvxZ" class="primary button">Join Our Discord!</a>
+
+We post announcements for opportunities and events on our discord, & our application is free and open to everyone.
+
 
 ### Joining Girls Who Code: College Loops
 
