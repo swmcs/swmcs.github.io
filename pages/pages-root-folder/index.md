@@ -3,10 +3,9 @@ layout: page
 title: ""
 permalink: /
 header:
-    image: "index-hero.png"
     background-color: "#ffffff"
 ---
 
-## Flip through our slides to learn more about us!
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu_v6-r047_82x1ea6mD_Dd5D_UMCcQFSVdoqiqLxd14KPkUx9vyspKJYdakKdRjGnCds5x1FionjI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Spring 2020 Mixer Presentation
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSx62iBNnR7dXh_qDa1RYWt3P0C9nbJWV3fq3ghoU7eZPkjvrDwA1KTAzfPkftXK1NpCAJGrw8tj8JY/embed?start=false&loop=false&delayms=30000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   <a href="https://switch-uhm.github.io/pages/join/" class="primary button">Join Us! <3</a>
