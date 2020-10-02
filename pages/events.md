@@ -8,4 +8,5 @@ header:
 	background-color: "#ffffff"
 ---
 
-<iframe src="https://titanembeds.com/embed/613860046492925992?defaultchannel=636741947767390228" height="650 px" width="100%" frameborder="0"></iframe>
+## We post events / announcements on our Discord that you can view below:
+<iframe src="https://titanembeds.com/embed/613860046492925992?defaultchannel=636743005868392450" height="650 px" width="600px" frameborder="0"></iframe>
