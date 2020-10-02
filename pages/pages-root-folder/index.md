@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "SWITCH-UHM Club"
 permalink: /
 header:
     image: "about-hero.png"
